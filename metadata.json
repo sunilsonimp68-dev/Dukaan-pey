@@ -1,0 +1,6 @@
+{
+  "name": "Vyapar Sahayak – Digital Business & Payment Partner",
+  "description": "व्यापार सहायक – व्यापारी का अपना डिजिटल पेमेंट पार्टनर: UPI QR codes, soundbox voice alerts, Google Drive backup & export, customer khata ledger, and digital transaction receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
